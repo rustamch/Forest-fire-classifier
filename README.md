@@ -1,1 +1,1 @@
-# DSCI_2021W2_Project
+# Forest-fire classifier
